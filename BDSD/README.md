@@ -17,7 +17,5 @@ sensor:         String for type of sensor (e.g. 'WV2', 'IKONOS').
 I_Fus_BDSD:     BDSD pansharpened image.
  
  ## References
-- [Garzelli08]    A. Garzelli, F. Nencini, and L. Capobianco, “Optimal MMSE pan sharpening of very high resolution multispectral images,” 
-                           IEEE Transactions on Geoscience and Remote Sensing, vol. 46, no. 1, pp. 228–236, January 2008.
-- [Vivone14]      G. Vivone, L. Alparone, J. Chanussot, M. Dalla Mura, A. Garzelli, G. Licciardi, R. Restaino, and L. Wald, “A Critical Comparison Among Pansharpening Algorithms”, 
-                           IEEE Transaction on Geoscience and Remote Sensing, 2014. (Accepted)
+- [Garzelli08]    A. Garzelli, F. Nencini, and L. Capobianco, “Optimal MMSE pan sharpening of very high resolution multispectral images,” IEEE Transactions on Geoscience and Remote Sensing, vol. 46, no. 1, pp. 228–236, January 2008.
+- [Vivone14]      G. Vivone, L. Alparone, J. Chanussot, M. Dalla Mura, A. Garzelli, G. Licciardi, R. Restaino, and L. Wald, “A Critical Comparison Among Pansharpening Algorithms”, IEEE Transaction on Geoscience and Remote Sensing, 2014. (Accepted)
